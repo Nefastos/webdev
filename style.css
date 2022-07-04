@@ -1,0 +1,75 @@
+
+h1 {
+    color: chocolate;
+    padding: 50px;
+    border: 2px solid brown;
+}
+h3 {
+    background-color: darkcyan;
+}
+
+p {
+    border: darkred;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5%;
+}
+li {
+    color: rgb(63, 103, 40);
+}
+
+p {
+    color: black; background-color: cadetblue;font-size:large; text-align: center;
+}
+
+h1, h2, h3 {
+    text-align: center /* this is a comment > this alligns almost everything to center;*/
+}
+
+p {
+    border: 5px, solid, brown;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: auto;
+}
+
+body {
+    color: darkgrey;
+}
+
+a:link, a:visited {
+    background-color: #1d9b5c;
+    color: white;
+    padding: 14px 225px;
+    text-align: center; 
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(20, 102, 51);
+  }
+
+  h1:hover{
+      background-color: white;
+  }
+
+  h2:hover{
+      background-color: turquoise;
+  }
+p:hover, p:active{
+    background-color: white;
+}
+li{
+    background-color: tomato;
+}
+li:hover{
+    background-color: yellow;
+}
+ul.a {
+    list-style-position: outside;
+  }
+
+
